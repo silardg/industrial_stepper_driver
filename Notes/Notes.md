@@ -9,3 +9,4 @@
 - added advanced filter for the output on the driver stepper
 - connecting all pins to the mcu (uart and spi)
 - connector jst - CANH CANL GND RS485-A RS485-B GND
+- tuning the efuse with three different resistors to get the 10v UVLO and OVLO of 36V
