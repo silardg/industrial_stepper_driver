@@ -1,0 +1,11 @@
+# Notes
+- the idea for this project comes from creating a stepper motor controller
+- as stepper motors are mostly used in industrial systems, the case should be a DIN rail mountable
+- the driver from trinamic was chosen as its one of the flagship versions that they have with extra features
+- adding 5.08mm pitch screw terminals for the stepper and the power supply connections
+- adding a JST for the encoder
+- adding 2.54mm connector (6 in total connections) for other and communication
+- added a filter and schmitt trigger to the encoder
+- added advanced filter for the output on the driver stepper
+- connecting all pins to the mcu (uart and spi)
+- connector jst - CANH CANL GND RS485-A RS485-B GND
