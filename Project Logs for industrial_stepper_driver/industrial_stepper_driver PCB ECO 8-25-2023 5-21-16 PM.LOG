@@ -1,0 +1,28 @@
+Added Component: Designator=L1(INDC3200X110-1206)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.we-online.com/katalog/datasheet/742792114.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "742792114"; VariantName = "[No Variations]"
+Added Component: Designator=L2(INDC3200X110-1206)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.we-online.com/katalog/datasheet/742792114.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "742792114"; VariantName = "[No Variations]"
+Added Component: Designator=L3(INDC3200X110-1206)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.we-online.com/katalog/datasheet/742792114.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "742792114"; VariantName = "[No Variations]"
+Added Component: Designator=L4(INDC3200X110-1206)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.we-online.com/katalog/datasheet/742792114.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "742792114"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=DRIVER_OUT1A Pin=L1-1
+Added Pin To Net: NetName=STEPPER_OUT1A Pin=L1-2
+Added Pin To Net: NetName=DRIVER_OUT2A Pin=L2-1
+Added Pin To Net: NetName=STEPPER_OUT2A Pin=L2-2
+Added Pin To Net: NetName=DRIVER_OUT1B Pin=L3-1
+Added Pin To Net: NetName=STEPPER_OUT1B Pin=L3-2
+Added Pin To Net: NetName=DRIVER_OUT2B Pin=L4-1
+Added Pin To Net: NetName=STEPPER_OUT2B Pin=L4-2
+Added Member To Class: ClassName=04 DRIVER Member=Component L1 50/100MHz
+Added Member To Class: ClassName=04 DRIVER Member=Component L2 50/100MHz
+Added Member To Class: ClassName=04 DRIVER Member=Component L3 50/100MHz
+Added Member To Class: ClassName=04 DRIVER Member=Component L4 50/100MHz
