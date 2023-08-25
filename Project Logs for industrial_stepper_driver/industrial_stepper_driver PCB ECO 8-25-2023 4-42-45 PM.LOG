@@ -1,0 +1,21 @@
+Added Component: Designator=SW2(SDA01H1SB)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.ckswitches.com/media/1327/sda.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "SDA01H1SBD"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found SON50P200X60_HS-9N
+Add Pin To Net: Unknown Pin: Pin D2-1
+Add Pin To Net: Unknown Pin: Pin D2-2
+Add Pin To Net: Unknown Pin: Pin L1-2
+Add Pin To Net: Unknown Pin: Pin L2-2
+Add Pin To Net: Unknown Pin: Pin L3-2
+Add Pin To Net: Unknown Pin: Pin L4-2
+Added Pin To Net: NetName=NetR10_2 Pin=SW2-1
+Added Pin To Net: NetName=CANH Pin=SW2-2
+Add Pin To Net: Unknown Pin: Pin U8-4
+Add Pin To Net: Unknown Pin: Pin U8-5
+Add Pin To Net: Unknown Pin: Pin U8-6
+Add Pin To Net: Unknown Pin: Pin U8-8
+Add Pin To Net: Unknown Pin: Pin U8-9
+Add Class Member: Failed to add class member : Component D2 B350A-13-F
+Added Member To Class: ClassName=05 COMMUNICATION Member=Component SW2 SDA01H1SBD
+Add Class Member: Failed to add class member : Component U8 ATECC608A-MAHDA-S

@@ -1,0 +1,801 @@
+Added Component: Designator=C1(CAPC1005X06M-0402)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM155R60J475ME47-01.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "GRM155R71H104KE14D"; VariantName = "[No Variations]"
+Added Component: Designator=C2(CAPC1005X06M-0402)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM155R60J475ME47-01.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "GRM155R71H104KE14D"; VariantName = "[No Variations]"
+Added Component: Designator=C3(CAPC1005X06M-0402)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM155R60J475ME47-01.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "GRM155C80J225KE95D"; VariantName = "[No Variations]"
+Added Component: Designator=C4(CAPC1005X06M-0402)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM155R60J475ME47-01.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "GRM155C80J225KE95D"; VariantName = "[No Variations]"
+Added Component: Designator=C5(CAPC1005X06M-0402)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM155R60J475ME47-01.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "GRM155R70J105KA12J"; VariantName = "[No Variations]"
+Added Component: Designator=C6(CAPC1005X06M-0402)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM155R60J475ME47-01.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "GRM155R71H223KA12D"; VariantName = "[No Variations]"
+Added Component: Designator=C7(CAPC1005X06M-0402)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM155R60J475ME47-01.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "GRM155R71H104KE14D"; VariantName = "[No Variations]"
+Added Component: Designator=C8(CAPC1005X06M-0402)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM155R60J475ME47-01.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "GRM1555C1H220JA01D"; VariantName = "[No Variations]"
+Added Component: Designator=C9(CAPC1005X06M-0402)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM155R60J475ME47-01.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "GRM1555C1H220JA01D"; VariantName = "[No Variations]"
+Added Component: Designator=C10(CAPC1005X06M-0402)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM155R60J475ME47-01.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "GRM155R71H104KE14D"; VariantName = "[No Variations]"
+Added Component: Designator=C11(A768MS107M1HLAE024)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://connect.kemet.com:7667/gateway/IntelliData-ComponentDocumentation/1.0/download/datasheet/A768MS107M1HLAE024"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "A768MS107M1HLAE024"; VariantName = "[No Variations]"
+Added Component: Designator=C12(A768MS107M1HLAE024)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://connect.kemet.com:7667/gateway/IntelliData-ComponentDocumentation/1.0/download/datasheet/A768MS107M1HLAE024"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "A768MS107M1HLAE024"; VariantName = "[No Variations]"
+Added Component: Designator=C13(A768MS107M1HLAE024)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://connect.kemet.com:7667/gateway/IntelliData-ComponentDocumentation/1.0/download/datasheet/A768MS107M1HLAE024"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "A768MS107M1HLAE024"; VariantName = "[No Variations]"
+Added Component: Designator=C14(CAPC1005X06M-0402)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM155R60J475ME47-01.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "GRM155R71H471KA01D"; VariantName = "[No Variations]"
+Added Component: Designator=C15(CAPC1005X06M-0402)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM155R60J475ME47-01.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "GRM155C80J225KE95D"; VariantName = "[No Variations]"
+Added Component: Designator=C16(CAPC2012X14M)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM21BC72A105KE01-01.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "GRM21BC72A105KE01L"; VariantName = "[No Variations]"
+Added Component: Designator=C17(CAPC1005X06M-0402)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM155R60J475ME47-01.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "GRM155R71H471KA01D"; VariantName = "[No Variations]"
+Added Component: Designator=C18(CAPC1005X06M-0402)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM155R60J475ME47-01.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "GRM155R71H104KE14D"; VariantName = "[No Variations]"
+Added Component: Designator=C19(CAPC1005X06M-0402)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM155R60J475ME47-01.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "GRM155R71H223KA12D"; VariantName = "[No Variations]"
+Added Component: Designator=C20(CAPC1005X06M-0402)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM155R60J475ME47-01.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "GRM155R71H471KA01D"; VariantName = "[No Variations]"
+Added Component: Designator=C21(CAPC1005X06M-0402)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM155R60J475ME47-01.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "GRM155R71H471KA01D"; VariantName = "[No Variations]"
+Added Component: Designator=C22(CAPC1005X06M-0402)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM155R60J475ME47-01.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "GRM155R71H104KE14D"; VariantName = "[No Variations]"
+Added Component: Designator=C23(CAPC1005X06M-0402)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM155R60J475ME47-01.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "GRM155R71H104KE14D"; VariantName = "[No Variations]"
+Added Component: Designator=C24(CAPC2012X14M)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM21BC72A105KE01-01.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "GRM21BC72A105KE01L"; VariantName = "[No Variations]"
+Added Component: Designator=C25(CAPC2012X14M)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM21BC72A105KE01-01.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "GRM21BC72A105KE01L"; VariantName = "[No Variations]"
+Added Component: Designator=C26(CAPC2012X14M)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM21BC72A105KE01-01.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "GRM21BC72A105KE01L"; VariantName = "[No Variations]"
+Added Component: Designator=C27(CAPC1005X06M-0402)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM155R60J475ME47-01.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "GRM155R71H104KE14D"; VariantName = "[No Variations]"
+Added Component: Designator=C28(CAPC1005X06M-0402)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM155R60J475ME47-01.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "GRM1555C1H150JA01D"; VariantName = "[No Variations]"
+Added Component: Designator=C29(CAPC1005X06M-0402)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM155R60J475ME47-01.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "GRM1555C1H150JA01D"; VariantName = "[No Variations]"
+Added Component: Designator=C30(CAPC1005X06M-0402)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM155R60J475ME47-01.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "GRM1555C1H150JA01D"; VariantName = "[No Variations]"
+Added Component: Designator=C31(CAPC1005X06M-0402)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM155R60J475ME47-01.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "GRM155R71H104KE14D"; VariantName = "[No Variations]"
+Added Component: Designator=C32(CAPC1005X06M-0402)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM155R60J475ME47-01.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "GRM155C80J225KE95D"; VariantName = "[No Variations]"
+Added Component: Designator=C33(CAPC1005X06M-0402)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM155R60J475ME47-01.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "GRM155R71H104KE14D"; VariantName = "[No Variations]"
+Added Component: Designator=C34(CAPC1005X06M-0402)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM155R60J475ME47-01.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "GRM155C80J225KE95D"; VariantName = "[No Variations]"
+Added Component: Designator=C35(CAPC1005X06M-0402)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM155R60J475ME47-01.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "GRM155R71H223KA12D"; VariantName = "[No Variations]"
+Added Component: Designator=C36(CAPC1005X06M-0402)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM155R60J475ME47-01.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "GRM155R71H104KE14D"; VariantName = "[No Variations]"
+Added Component: Designator=C37(CAPC2012X14M)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM21BC72A105KE01-01.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "GRM21BC72A105KE01L"; VariantName = "[No Variations]"
+Added Component: Designator=C38(A768MS107M1HLAE024)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://connect.kemet.com:7667/gateway/IntelliData-ComponentDocumentation/1.0/download/datasheet/A768MS107M1HLAE024"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "A768MS107M1HLAE024"; VariantName = "[No Variations]"
+Added Component: Designator=C39(CAPC1005X06M-0402)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM155R60J475ME47-01.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "GRM155R71H223KA12D"; VariantName = "[No Variations]"
+Added Component: Designator=C40(CAPC2012X14M)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM21BC72A105KE01-01.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "GRM21BR61H475KE51L"; VariantName = "[No Variations]"
+Added Component: Designator=C41(CAPC2012X14M)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM21BC72A105KE01-01.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "GRM21BR61H475KE51L"; VariantName = "[No Variations]"
+Added Component: Designator=C42(CAPC1005X06M-0402)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM155R60J475ME47-01.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "GRM155R71H104KE14D"; VariantName = "[No Variations]"
+Added Component: Designator=C43(CAPC1005X06M-0402)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM155R60J475ME47-01.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "GRM155R71H104KE14D"; VariantName = "[No Variations]"
+Added Component: Designator=C44(CAPC1608X10M-0603)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM188R60J476ME15-01.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "GRM188R60J476ME15D"; VariantName = "[No Variations]"
+Added Component: Designator=C45(CAPC1608X10M-0603)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM188R60J476ME15-01.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "GRM188R60J476ME15D"; VariantName = "[No Variations]"
+Added Component: Designator=C46(CAPC1005X06M-0402)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM155R60J475ME47-01.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "GRM155R70J105KA12J"; VariantName = "[No Variations]"
+Added Component: Designator=C47(CAPC1005X06M-0402)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM155R60J475ME47-01.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "GRM155R70J105KA12J"; VariantName = "[No Variations]"
+Added Component: Designator=C48(CAPC1005X06M-0402)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM155R60J475ME47-01.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "GRM155R71H223KA12D"; VariantName = "[No Variations]"
+Added Component: Designator=C49(CAPC1005X06M-0402)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM155R60J475ME47-01.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "GRM155R71H104KE14D"; VariantName = "[No Variations]"
+Added Component: Designator=C50(CAPC1005X06M-0402)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM155R60J475ME47-01.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "GRM155R71H104KE14D"; VariantName = "[No Variations]"
+Added Component: Designator=D1(SOT100P240X115-3N)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://fscdn.rohm.com/en/products/databook/datasheet/discrete/diode/zener/resd1canyt116-e.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "RESD1CANYT116"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found 282837-2
+Add Component: Footprint Not Found 282837-2
+Added Component: Designator=J3(B5B-PH-K-S)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.jst-mfg.com/product/pdf/eng/ePH.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "B5B-PH-K-S"; VariantName = "[No Variations]"
+Added Component: Designator=J4(282834-3)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=282834&DocType=Customer+Drawing&DocLang=English"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "282834-3"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found 282837-2
+Added Component: Designator=J6(CONN_PROG)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "CONN_PROG"; VariantName = "[No Variations]"
+Added Component: Designator=L1(INDC3200X110-1206)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.we-online.com/katalog/datasheet/742792114.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "742792114"; VariantName = "[No Variations]"
+Added Component: Designator=L2(INDC3200X110-1206)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.we-online.com/katalog/datasheet/742792114.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "742792114"; VariantName = "[No Variations]"
+Added Component: Designator=L3(INDC3200X110-1206)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.we-online.com/katalog/datasheet/742792114.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "742792114"; VariantName = "[No Variations]"
+Added Component: Designator=L4(INDC3200X110-1206)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.we-online.com/katalog/datasheet/742792114.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "742792114"; VariantName = "[No Variations]"
+Added Component: Designator=L5(IHLP2525CZER5R6M8A)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.vishay.com/docs/34362/lp25cz8a.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "IHLP2525CZER5R6M8A"; VariantName = "[No Variations]"
+Added Component: Designator=R1(RESC1005X04M-0402)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "RC0402FR-07100KL"; VariantName = "[No Variations]"
+Added Component: Designator=R2(RESC1005X04M-0402)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "RC0402FR-07100KL"; VariantName = "[No Variations]"
+Added Component: Designator=R3(RESC1005X04M-0402)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "RC0402FR-07100KL"; VariantName = "[No Variations]"
+Added Component: Designator=R4(RESC1005X04M-0402)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "RC0402FR-074K7L"; VariantName = "[No Variations]"
+Added Component: Designator=R5(RESC1005X04M-0402)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "RC0402FR-074K7L"; VariantName = "[No Variations]"
+Added Component: Designator=R6(RESC1005X04M-0402)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "RC0402FR-074K7L"; VariantName = "[No Variations]"
+Added Component: Designator=R7(RESC1005X04M-0402)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "RC0402FR-071KL"; VariantName = "[No Variations]"
+Added Component: Designator=R8(RESC1005X04M-0402)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "RC0402FR-071KL"; VariantName = "[No Variations]"
+Added Component: Designator=R9(RESC1005X04M-0402)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "RC0402FR-071KL"; VariantName = "[No Variations]"
+Added Component: Designator=R10(RESC1005X04M-0402)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "RC0402FR-07120RL"; VariantName = "[No Variations]"
+Added Component: Designator=R11(RESC1005X04M-0402)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "RC0402FR-07100KL"; VariantName = "[No Variations]"
+Added Component: Designator=R12(RESC1005X04M-0402)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "RC0402FR-07866KL"; VariantName = "[No Variations]"
+Added Component: Designator=R13(RESC1005X04M-0402)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "RC0402FR-07100KL"; VariantName = "[No Variations]"
+Added Component: Designator=R14(RESC1005X04M-0402)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "RC0402FR-0778K7L"; VariantName = "[No Variations]"
+Added Component: Designator=R15(RESC1005X04M-0402)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "RC0402FR-0718K7L"; VariantName = "[No Variations]"
+Added Component: Designator=R16(RESC1005X04M-0402)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "RC0402FR-073KL"; VariantName = "[No Variations]"
+Added Component: Designator=R17(RESC1005X04M-0402)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "RC0402FR-0718K7L"; VariantName = "[No Variations]"
+Added Component: Designator=R18(RESC1005X04M-0402)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "RC0402FR-07100KL"; VariantName = "[No Variations]"
+Added Component: Designator=R19(RESC1005X04M-0402)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "RC0402FR-07100KL"; VariantName = "[No Variations]"
+Added Component: Designator=R20(RESC1005X04M-0402)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "RC0402FR-07100KL"; VariantName = "[No Variations]"
+Added Component: Designator=R21(RESC1005X04M-0402)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "RC0402FR-0718K7L"; VariantName = "[No Variations]"
+Added Component: Designator=R22(RESC1005X04M-0402)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "RC0402FR-0717K4L"; VariantName = "[No Variations]"
+Added Component: Designator=R23(RESC1005X04M-0402)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "RC0402FR-074K7L"; VariantName = "[No Variations]"
+Added Component: Designator=R24(RESC1005X04M-0402)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "RC0402FR-074K7L"; VariantName = "[No Variations]"
+Added Component: Designator=SW1(PTS815 SJM 250 SMTR LFS)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.ckswitches.com/media/2728/pts815.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "PTS815 SJM 250 SMTR LFS"; VariantName = "[No Variations]"
+Added Component: Designator=SW2(SDA01H1SBD)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.ckswitches.com/media/1327/sda.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "SDA01H1SBD"; VariantName = "[No Variations]"
+Added Component: Designator=U1(PQFN50P500X500X60_HS-33N)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.st.com/content/ccc/resource/technical/document/datasheet/24/01/9f/59/f0/83/47/fc/DM00257205.pdf/files/DM00257205.pdf/jcr:content/translations/en.DM00257205.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "STM32L432KCU6"; VariantName = "[No Variations]"
+Added Component: Designator=U2(TQFN32-5mmx5mm)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/5344/TMC2240.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "TMC2240ATJ+"; VariantName = "[No Variations]"
+Added Component: Designator=U3(TSOP65P400X110-8N)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://assets.nexperia.com/documents/data-sheet/74LVC3G17.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "74LVC3G17DP,125"; VariantName = "[No Variations]"
+Added Component: Designator=U4(SOIC127P600X175-8N)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=https%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftcan1051-q1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "TCAN1051VDRQ1"; VariantName = "[No Variations]"
+Added Component: Designator=U5(PQFN50P400X400X100_HS-25N)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=https%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftps1663"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "TPS16630RGET"; VariantName = "[No Variations]"
+Added Component: Designator=U6(SOIC127P600X170_HS-9N)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%253A%252F%252Fwww.ti.com%252Flit%252Fgpn%252Flmr14020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "LMR14020SDDAR"; VariantName = "[No Variations]"
+Added Component: Designator=U7(SON65P200X80_HS-7N)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=https%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftlv755p"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "TLV75533PDRVR"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found SON50P200X60_HS-9N
+Added Component: Designator=VAR1(VARA4732X16N)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.bourns.com/docs/Product-Datasheets/ZV_series.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "ZV40K1812601NIR1"; VariantName = "[No Variations]"
+Added Component: Designator=VAR2(VARA4732X16N)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.bourns.com/docs/Product-Datasheets/ZV_series.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "ZV40K1812601NIR1"; VariantName = "[No Variations]"
+Added Component: Designator=VAR3(VARA4732X16N)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.bourns.com/docs/Product-Datasheets/ZV_series.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "ZV40K1812601NIR1"; VariantName = "[No Variations]"
+Added Component: Designator=VAR4(VARA4732X16N)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.bourns.com/docs/Product-Datasheets/ZV_series.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "ZV40K1812601NIR1"; VariantName = "[No Variations]"
+Added Component: Designator=VAR5(VARA4732X16N)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.bourns.com/docs/Product-Datasheets/ZV_series.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "ZV40K1812601NIR1"; VariantName = "[No Variations]"
+Added Component: Designator=VAR6(VARA4732X16N)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.bourns.com/docs/Product-Datasheets/ZV_series.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "ZV40K1812601NIR1"; VariantName = "[No Variations]"
+Added Component: Designator=VAR7(VARA4732X16N)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.bourns.com/docs/Product-Datasheets/ZV_series.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "ZV40K1812601NIR1"; VariantName = "[No Variations]"
+Added Component: Designator=X1(2-SMD)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://ecsxtal.com/store/pdf/ECX-16.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "ECS-.327-12.5-16-TR"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3V3 Pin=C1-2
+Added Pin To Net: NetName=+3V3 Pin=C2-2
+Added Pin To Net: NetName=+3V3 Pin=C3-2
+Added Pin To Net: NetName=+3V3 Pin=C4-2
+Added Pin To Net: NetName=+3V3 Pin=C5-2
+Added Pin To Net: NetName=+3V3 Pin=C6-2
+Added Pin To Net: NetName=+3V3 Pin=C7-2
+Added Pin To Net: NetName=+3V3 Pin=C18-2
+Added Pin To Net: NetName=+3V3 Pin=C31-2
+Added Pin To Net: NetName=+3V3 Pin=C32-2
+Added Pin To Net: NetName=+3V3 Pin=C47-2
+Added Pin To Net: NetName=+3V3 Pin=C50-2
+Added Pin To Net: NetName=+3V3 Pin=J6-1
+Added Pin To Net: NetName=+3V3 Pin=R1-2
+Added Pin To Net: NetName=+3V3 Pin=R2-2
+Added Pin To Net: NetName=+3V3 Pin=R3-2
+Added Pin To Net: NetName=+3V3 Pin=R23-2
+Added Pin To Net: NetName=+3V3 Pin=R24-2
+Added Pin To Net: NetName=+3V3 Pin=U1-1
+Added Pin To Net: NetName=+3V3 Pin=U1-5
+Added Pin To Net: NetName=+3V3 Pin=U1-17
+Added Pin To Net: NetName=+3V3 Pin=U2-5
+Added Pin To Net: NetName=+3V3 Pin=U4-5
+Added Pin To Net: NetName=+3V3 Pin=U7-1
+Added Net: Name=+3V3
+Added Pin To Net: NetName=+5V Pin=C26-2
+Added Pin To Net: NetName=+5V Pin=C27-1
+Added Pin To Net: NetName=+5V Pin=C33-2
+Added Pin To Net: NetName=+5V Pin=C34-2
+Added Pin To Net: NetName=+5V Pin=C43-1
+Added Pin To Net: NetName=+5V Pin=C44-2
+Added Pin To Net: NetName=+5V Pin=C45-2
+Added Pin To Net: NetName=+5V Pin=C46-2
+Added Pin To Net: NetName=+5V Pin=J3-1
+Added Pin To Net: NetName=+5V Pin=L5-2
+Added Pin To Net: NetName=+5V Pin=R4-2
+Added Pin To Net: NetName=+5V Pin=R5-2
+Added Pin To Net: NetName=+5V Pin=R6-2
+Added Pin To Net: NetName=+5V Pin=R19-2
+Added Pin To Net: NetName=+5V Pin=R20-2
+Added Pin To Net: NetName=+5V Pin=U3-8
+Added Pin To Net: NetName=+5V Pin=U4-3
+Added Pin To Net: NetName=+5V Pin=U7-6
+Added Net: Name=+5V
+Added Pin To Net: NetName=BOOT Pin=C43-2
+Added Pin To Net: NetName=BOOT Pin=U6-1
+Added Net: Name=BOOT
+Added Pin To Net: NetName=CANH Pin=D1-1
+Added Pin To Net: NetName=CANH Pin=J4-1
+Added Pin To Net: NetName=CANH Pin=SW2-2
+Added Pin To Net: NetName=CANH Pin=U4-7
+Added Net: Name=CANH
+Added Pin To Net: NetName=CANL Pin=D1-2
+Added Pin To Net: NetName=CANL Pin=J4-2
+Added Pin To Net: NetName=CANL Pin=R10-1
+Added Pin To Net: NetName=CANL Pin=U4-6
+Added Net: Name=CANL
+Added Pin To Net: NetName=DIAG0 Pin=R2-1
+Added Pin To Net: NetName=DIAG0 Pin=U1-18
+Added Pin To Net: NetName=DIAG0 Pin=U2-11
+Added Net: Name=DIAG0
+Added Pin To Net: NetName=DIAG1 Pin=R3-1
+Added Pin To Net: NetName=DIAG1 Pin=U1-28
+Added Pin To Net: NetName=DIAG1 Pin=U2-12
+Added Net: Name=DIAG1
+Added Pin To Net: NetName=DIRECTION Pin=U1-15
+Added Pin To Net: NetName=DIRECTION Pin=U2-32
+Added Net: Name=DIRECTION
+Added Pin To Net: NetName=DRIVER_OUT1A Pin=L1-1
+Added Pin To Net: NetName=DRIVER_OUT1A Pin=L1-1
+Added Pin To Net: NetName=DRIVER_OUT1A Pin=U2-23
+Added Net: Name=DRIVER_OUT1A
+Added Pin To Net: NetName=DRIVER_OUT1B Pin=L3-1
+Added Pin To Net: NetName=DRIVER_OUT1B Pin=L3-1
+Added Pin To Net: NetName=DRIVER_OUT1B Pin=U2-18
+Added Net: Name=DRIVER_OUT1B
+Added Pin To Net: NetName=DRIVER_OUT2A Pin=L2-1
+Added Pin To Net: NetName=DRIVER_OUT2A Pin=L2-1
+Added Pin To Net: NetName=DRIVER_OUT2A Pin=U2-22
+Added Net: Name=DRIVER_OUT2A
+Added Pin To Net: NetName=DRIVER_OUT2B Pin=L4-1
+Added Pin To Net: NetName=DRIVER_OUT2B Pin=L4-1
+Added Pin To Net: NetName=DRIVER_OUT2B Pin=U2-19
+Added Net: Name=DRIVER_OUT2B
+Added Pin To Net: NetName=DRV_ENn Pin=R1-1
+Added Pin To Net: NetName=DRV_ENn Pin=U1-11
+Added Pin To Net: NetName=DRV_ENn Pin=U2-9
+Added Net: Name=DRV_ENn
+Added Pin To Net: NetName=ENC_A Pin=U2-8
+Added Pin To Net: NetName=ENC_A Pin=U3-7
+Added Net: Name=ENC_A
+Added Pin To Net: NetName=ENC_B Pin=U2-7
+Added Pin To Net: NetName=ENC_B Pin=U3-5
+Added Net: Name=ENC_B
+Added Pin To Net: NetName=ENC_N Pin=U2-6
+Added Pin To Net: NetName=ENC_N Pin=U3-2
+Added Net: Name=ENC_N
+Added Pin To Net: NetName=EN Pin=C49-2
+Added Pin To Net: NetName=EN Pin=R19-1
+Added Pin To Net: NetName=EN Pin=U7-4
+Added Net: Name=EN
+Added Pin To Net: NetName=FB Pin=R20-1
+Added Pin To Net: NetName=FB Pin=R22-2
+Added Pin To Net: NetName=FB Pin=U6-5
+Added Net: Name=FB
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=GND Pin=C10-1
+Added Pin To Net: NetName=GND Pin=C11-2
+Added Pin To Net: NetName=GND Pin=C12-2
+Added Pin To Net: NetName=GND Pin=C13-2
+Added Pin To Net: NetName=GND Pin=C14-1
+Added Pin To Net: NetName=GND Pin=C15-1
+Added Pin To Net: NetName=GND Pin=C17-2
+Added Pin To Net: NetName=GND Pin=C18-1
+Added Pin To Net: NetName=GND Pin=C20-1
+Added Pin To Net: NetName=GND Pin=C21-2
+Added Pin To Net: NetName=GND Pin=C22-1
+Added Pin To Net: NetName=GND Pin=C23-1
+Added Pin To Net: NetName=GND Pin=C24-1
+Added Pin To Net: NetName=GND Pin=C25-1
+Added Pin To Net: NetName=GND Pin=C26-1
+Added Pin To Net: NetName=GND Pin=C27-2
+Added Pin To Net: NetName=GND Pin=C28-1
+Added Pin To Net: NetName=GND Pin=C29-1
+Added Pin To Net: NetName=GND Pin=C30-1
+Added Pin To Net: NetName=GND Pin=C31-1
+Added Pin To Net: NetName=GND Pin=C32-1
+Added Pin To Net: NetName=GND Pin=C33-1
+Added Pin To Net: NetName=GND Pin=C34-1
+Added Pin To Net: NetName=GND Pin=C35-1
+Added Pin To Net: NetName=GND Pin=C36-1
+Added Pin To Net: NetName=GND Pin=C37-1
+Added Pin To Net: NetName=GND Pin=C38-2
+Added Pin To Net: NetName=GND Pin=C39-1
+Added Pin To Net: NetName=GND Pin=C40-1
+Added Pin To Net: NetName=GND Pin=C41-1
+Added Pin To Net: NetName=GND Pin=C42-1
+Added Pin To Net: NetName=GND Pin=C44-1
+Added Pin To Net: NetName=GND Pin=C45-1
+Added Pin To Net: NetName=GND Pin=C46-1
+Added Pin To Net: NetName=GND Pin=C47-1
+Added Pin To Net: NetName=GND Pin=C48-2
+Added Pin To Net: NetName=GND Pin=C49-1
+Added Pin To Net: NetName=GND Pin=C50-1
+Added Pin To Net: NetName=GND Pin=D1-3
+Added Pin To Net: NetName=GND Pin=J3-5
+Added Pin To Net: NetName=GND Pin=J4-3
+Added Pin To Net: NetName=GND Pin=J6-5
+Added Pin To Net: NetName=GND Pin=R11-1
+Added Pin To Net: NetName=GND Pin=R15-1
+Added Pin To Net: NetName=GND Pin=R16-1
+Added Pin To Net: NetName=GND Pin=R17-1
+Added Pin To Net: NetName=GND Pin=R21-1
+Added Pin To Net: NetName=GND Pin=R22-1
+Added Pin To Net: NetName=GND Pin=SW1-1
+Added Pin To Net: NetName=GND Pin=SW1-2
+Added Pin To Net: NetName=GND Pin=U1-16
+Added Pin To Net: NetName=GND Pin=U1-32
+Added Pin To Net: NetName=GND Pin=U1-33
+Added Pin To Net: NetName=GND Pin=U2-4
+Added Pin To Net: NetName=GND Pin=U2-30
+Added Pin To Net: NetName=GND Pin=U2-33
+Added Pin To Net: NetName=GND Pin=U3-4
+Added Pin To Net: NetName=GND Pin=U4-2
+Added Pin To Net: NetName=GND Pin=U5-8
+Added Pin To Net: NetName=GND Pin=U5-11
+Added Pin To Net: NetName=GND Pin=U5-14
+Added Pin To Net: NetName=GND Pin=U5-25
+Added Pin To Net: NetName=GND Pin=U5-25
+Added Pin To Net: NetName=GND Pin=U5-25
+Added Pin To Net: NetName=GND Pin=U5-25
+Added Pin To Net: NetName=GND Pin=U5-25
+Added Pin To Net: NetName=GND Pin=U5-25
+Added Pin To Net: NetName=GND Pin=U6-7
+Added Pin To Net: NetName=GND Pin=U6-9
+Added Pin To Net: NetName=GND Pin=U6-9
+Added Pin To Net: NetName=GND Pin=U6-9
+Added Pin To Net: NetName=GND Pin=U6-9
+Added Pin To Net: NetName=GND Pin=U6-9
+Added Pin To Net: NetName=GND Pin=U7-3
+Added Pin To Net: NetName=GND Pin=U7-7
+Added Pin To Net: NetName=GND Pin=U7-7
+Added Pin To Net: NetName=GND Pin=U7-7
+Added Pin To Net: NetName=GND Pin=VAR1-2
+Added Pin To Net: NetName=GND Pin=VAR3-1
+Added Pin To Net: NetName=GND Pin=VAR4-2
+Added Pin To Net: NetName=GND Pin=VAR6-1
+Added Pin To Net: NetName=GND Pin=VAR7-1
+Added Net: Name=GND
+Added Pin To Net: NetName=IN_ENC_A Pin=J3-2
+Added Pin To Net: NetName=IN_ENC_A Pin=R6-1
+Added Pin To Net: NetName=IN_ENC_A Pin=R7-1
+Added Net: Name=IN_ENC_A
+Added Pin To Net: NetName=IN_ENC_B Pin=J3-3
+Added Pin To Net: NetName=IN_ENC_B Pin=R5-1
+Added Pin To Net: NetName=IN_ENC_B Pin=R8-1
+Added Net: Name=IN_ENC_B
+Added Pin To Net: NetName=IN_ENC_N Pin=J3-4
+Added Pin To Net: NetName=IN_ENC_N Pin=R4-1
+Added Pin To Net: NetName=IN_ENC_N Pin=R9-1
+Added Net: Name=IN_ENC_N
+Added Pin To Net: NetName=INPUT_VCC Pin=C35-2
+Added Pin To Net: NetName=INPUT_VCC Pin=C36-2
+Added Pin To Net: NetName=INPUT_VCC Pin=C37-2
+Added Pin To Net: NetName=INPUT_VCC Pin=R12-2
+Added Pin To Net: NetName=INPUT_VCC Pin=R13-1
+Added Pin To Net: NetName=INPUT_VCC Pin=U5-1
+Added Pin To Net: NetName=INPUT_VCC Pin=U5-2
+Added Pin To Net: NetName=INPUT_VCC Pin=U5-5
+Added Pin To Net: NetName=INPUT_VCC Pin=VAR7-2
+Added Net: Name=INPUT_VCC
+Added Pin To Net: NetName=JTAG_JTCK_SWCLK Pin=J6-7
+Added Pin To Net: NetName=JTAG_JTCK_SWCLK Pin=U1-24
+Added Net: Name=JTAG_JTCK_SWCLK
+Added Pin To Net: NetName=JTAG_JTDI Pin=J6-8
+Added Pin To Net: NetName=JTAG_JTDI Pin=U1-25
+Added Net: Name=JTAG_JTDI
+Added Pin To Net: NetName=JTAG_JTDO_SWO Pin=J6-9
+Added Pin To Net: NetName=JTAG_JTDO_SWO Pin=U1-26
+Added Net: Name=JTAG_JTDO_SWO
+Added Pin To Net: NetName=JTAG_JTMS_SWDIO Pin=J6-6
+Added Pin To Net: NetName=JTAG_JTMS_SWDIO Pin=U1-23
+Added Net: Name=JTAG_JTMS_SWDIO
+Added Pin To Net: NetName=JTAG_JTRST Pin=J6-10
+Added Pin To Net: NetName=JTAG_JTRST Pin=U1-27
+Added Net: Name=JTAG_JTRST
+Added Pin To Net: NetName=NetC15_2 Pin=C15-2
+Added Pin To Net: NetName=NetC15_2 Pin=U2-3
+Added Net: Name=NetC15_2
+Added Pin To Net: NetName=NetC16_1 Pin=C16-1
+Added Pin To Net: NetName=NetC16_1 Pin=U2-16
+Added Net: Name=NetC16_1
+Added Pin To Net: NetName=NetC19_1 Pin=C19-1
+Added Pin To Net: NetName=NetC19_1 Pin=U2-15
+Added Net: Name=NetC19_1
+Added Pin To Net: NetName=NetC19_2 Pin=C19-2
+Added Pin To Net: NetName=NetC19_2 Pin=U2-14
+Added Net: Name=NetC19_2
+Added Pin To Net: NetName=NetC28_2 Pin=C28-2
+Added Pin To Net: NetName=NetC28_2 Pin=R7-2
+Added Pin To Net: NetName=NetC28_2 Pin=U3-1
+Added Net: Name=NetC28_2
+Added Pin To Net: NetName=NetC29_2 Pin=C29-2
+Added Pin To Net: NetName=NetC29_2 Pin=R8-2
+Added Pin To Net: NetName=NetC29_2 Pin=U3-3
+Added Net: Name=NetC29_2
+Added Pin To Net: NetName=NetC30_2 Pin=C30-2
+Added Pin To Net: NetName=NetC30_2 Pin=R9-2
+Added Pin To Net: NetName=NetC30_2 Pin=U3-6
+Added Net: Name=NetC30_2
+Added Pin To Net: NetName=NetC39_2 Pin=C39-2
+Added Pin To Net: NetName=NetC39_2 Pin=U5-9
+Added Net: Name=NetC39_2
+Added Pin To Net: NetName=NetR10_2 Pin=R10-2
+Added Pin To Net: NetName=NetR10_2 Pin=SW2-1
+Added Net: Name=NetR10_2
+Added Pin To Net: NetName=NetR11_2 Pin=R11-2
+Added Pin To Net: NetName=NetR11_2 Pin=U4-8
+Added Net: Name=NetR11_2
+Added Pin To Net: NetName=NetR12_1 Pin=R12-1
+Added Pin To Net: NetName=NetR12_1 Pin=R14-2
+Added Pin To Net: NetName=NetR12_1 Pin=U5-6
+Added Net: Name=NetR12_1
+Added Pin To Net: NetName=NetR13_2 Pin=R13-2
+Added Pin To Net: NetName=NetR13_2 Pin=U5-12
+Added Net: Name=NetR13_2
+Added Pin To Net: NetName=NetR14_1 Pin=R14-1
+Added Pin To Net: NetName=NetR14_1 Pin=R15-2
+Added Pin To Net: NetName=NetR14_1 Pin=U5-7
+Added Net: Name=NetR14_1
+Added Pin To Net: NetName=NetR16_2 Pin=R16-2
+Added Pin To Net: NetName=NetR16_2 Pin=U5-10
+Added Net: Name=NetR16_2
+Added Pin To Net: NetName=NetR17_2 Pin=R17-2
+Added Pin To Net: NetName=NetR17_2 Pin=U1-6
+Added Pin To Net: NetName=NetR17_2 Pin=U5-13
+Added Net: Name=NetR17_2
+Added Pin To Net: NetName=NetR23_1 Pin=R23-1
+Added Pin To Net: NetName=NetR23_1 Pin=U1-29
+Added Net: Name=NetR23_1
+Added Pin To Net: NetName=NetR24_1 Pin=R24-1
+Added Pin To Net: NetName=NetR24_1 Pin=U1-30
+Added Net: Name=NetR24_1
+Added Pin To Net: NetName=NetU1_21 Pin=U1-21
+Added Pin To Net: NetName=NetU1_21 Pin=U4-4
+Added Net: Name=NetU1_21
+Added Pin To Net: NetName=NetU1_22 Pin=U1-22
+Added Pin To Net: NetName=NetU1_22 Pin=U4-1
+Added Net: Name=NetU1_22
+Added Pin To Net: NetName=OSC_IN Pin=C8-2
+Added Pin To Net: NetName=OSC_IN Pin=U1-2
+Added Pin To Net: NetName=OSC_IN Pin=X1-2
+Added Net: Name=OSC_IN
+Added Pin To Net: NetName=OSC_OUT Pin=C9-2
+Added Pin To Net: NetName=OSC_OUT Pin=U1-3
+Added Pin To Net: NetName=OSC_OUT Pin=X1-1
+Added Net: Name=OSC_OUT
+Added Pin To Net: NetName=PGOOD_VIN Pin=R18-2
+Added Pin To Net: NetName=PGOOD_VIN Pin=U5-16
+Added Pin To Net: NetName=PGOOD_VIN Pin=U6-3
+Added Net: Name=PGOOD_VIN
+Added Pin To Net: NetName=RSTn Pin=C10-2
+Added Pin To Net: NetName=RSTn Pin=J6-2
+Added Pin To Net: NetName=RSTn Pin=SW1-3
+Added Pin To Net: NetName=RSTn Pin=SW1-4
+Added Pin To Net: NetName=RSTn Pin=U1-4
+Added Net: Name=RSTn
+Added Pin To Net: NetName=RT/SYNC Pin=R21-2
+Added Pin To Net: NetName=RT/SYNC Pin=U6-4
+Added Net: Name=RT/SYNC
+Added Pin To Net: NetName=SLEEPn Pin=U1-9
+Added Pin To Net: NetName=SLEEPn Pin=U2-25
+Added Net: Name=SLEEPn
+Added Pin To Net: NetName=SPI_CE Pin=U1-10
+Added Pin To Net: NetName=SPI_CE Pin=U2-26
+Added Net: Name=SPI_CE
+Added Pin To Net: NetName=SPI_MISO Pin=U1-12
+Added Pin To Net: NetName=SPI_MISO Pin=U2-29
+Added Net: Name=SPI_MISO
+Added Pin To Net: NetName=SPI_MOSI Pin=U1-13
+Added Pin To Net: NetName=SPI_MOSI Pin=U2-28
+Added Net: Name=SPI_MOSI
+Added Pin To Net: NetName=SPI_SCK Pin=U1-7
+Added Pin To Net: NetName=SPI_SCK Pin=U2-27
+Added Net: Name=SPI_SCK
+Added Pin To Net: NetName=SS Pin=C48-1
+Added Pin To Net: NetName=SS Pin=U6-6
+Added Net: Name=SS
+Added Pin To Net: NetName=STEPPER_OUT1A Pin=C14-2
+Added Pin To Net: NetName=STEPPER_OUT1A Pin=VAR1-1
+Added Pin To Net: NetName=STEPPER_OUT1A Pin=VAR2-2
+Added Net: Name=STEPPER_OUT1A
+Added Pin To Net: NetName=STEPPER_OUT1B Pin=C20-2
+Added Pin To Net: NetName=STEPPER_OUT1B Pin=VAR4-1
+Added Pin To Net: NetName=STEPPER_OUT1B Pin=VAR5-2
+Added Net: Name=STEPPER_OUT1B
+Added Pin To Net: NetName=STEPPER_OUT2A Pin=C17-1
+Added Pin To Net: NetName=STEPPER_OUT2A Pin=VAR2-1
+Added Pin To Net: NetName=STEPPER_OUT2A Pin=VAR3-2
+Added Net: Name=STEPPER_OUT2A
+Added Pin To Net: NetName=STEPPER_OUT2B Pin=C21-1
+Added Pin To Net: NetName=STEPPER_OUT2B Pin=VAR5-1
+Added Pin To Net: NetName=STEPPER_OUT2B Pin=VAR6-2
+Added Net: Name=STEPPER_OUT2B
+Added Pin To Net: NetName=STEP Pin=U1-14
+Added Pin To Net: NetName=STEP Pin=U2-31
+Added Net: Name=STEP
+Added Pin To Net: NetName=SW Pin=L5-1
+Added Pin To Net: NetName=SW Pin=U6-8
+Added Net: Name=SW
+Added Pin To Net: NetName=UART_EN Pin=U1-8
+Added Pin To Net: NetName=UART_EN Pin=U2-10
+Added Net: Name=UART_EN
+Added Pin To Net: NetName=USART1_RX Pin=J6-3
+Added Pin To Net: NetName=USART1_RX Pin=U1-19
+Added Net: Name=USART1_RX
+Added Pin To Net: NetName=USART1_TX Pin=J6-4
+Added Pin To Net: NetName=USART1_TX Pin=U1-20
+Added Net: Name=USART1_TX
+Added Pin To Net: NetName=VCC Pin=C11-1
+Added Pin To Net: NetName=VCC Pin=C12-1
+Added Pin To Net: NetName=VCC Pin=C13-1
+Added Pin To Net: NetName=VCC Pin=C16-2
+Added Pin To Net: NetName=VCC Pin=C22-2
+Added Pin To Net: NetName=VCC Pin=C23-2
+Added Pin To Net: NetName=VCC Pin=C24-2
+Added Pin To Net: NetName=VCC Pin=C25-2
+Added Pin To Net: NetName=VCC Pin=U2-17
+Added Pin To Net: NetName=VCC Pin=U2-20
+Added Pin To Net: NetName=VCC Pin=U2-21
+Added Pin To Net: NetName=VCC Pin=U2-24
+Added Net: Name=VCC
+Added Pin To Net: NetName=VIN Pin=C38-1
+Added Pin To Net: NetName=VIN Pin=C40-2
+Added Pin To Net: NetName=VIN Pin=C41-2
+Added Pin To Net: NetName=VIN Pin=C42-2
+Added Pin To Net: NetName=VIN Pin=R18-1
+Added Pin To Net: NetName=VIN Pin=U5-17
+Added Pin To Net: NetName=VIN Pin=U5-18
+Added Pin To Net: NetName=VIN Pin=U6-2
+Added Net: Name=VIN
+Added Class: Name=03 MCU
+Added Class: Name=04 DRIVER
+Added Class: Name=05 COMMUNICATION
+Added Class: Name=06 POWER
+Added Room: Name=03 MCU
+Added Room: Name=04 DRIVER
+Added Room: Name=05 COMMUNICATION
+Added Room: Name=06 POWER
