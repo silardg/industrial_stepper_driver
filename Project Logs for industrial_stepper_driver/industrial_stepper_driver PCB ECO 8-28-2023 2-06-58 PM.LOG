@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=NetC28_2 Pin=U3-1
+Removed Pin From Net: NetName=ENC_N Pin=U3-2
+Removed Pin From Net: NetName=NetC30_2 Pin=U3-6
+Removed Pin From Net: NetName=ENC_A Pin=U3-7
+Added Pin To Net: NetName=NetC30_2 Pin=U3-1
+Added Pin To Net: NetName=ENC_A Pin=U3-2
+Added Pin To Net: NetName=NetC28_2 Pin=U3-6
+Added Pin To Net: NetName=ENC_N Pin=U3-7
+Added Room: Name=03 MCU
+Added Room: Name=04 DRIVER
+Added Room: Name=05 COMMUNICATION
+Added Room: Name=06 POWER

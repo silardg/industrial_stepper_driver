@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=STEPPER_OUT2A Pin=J1-1
+Removed Pin From Net: NetName=STEPPER_OUT1A Pin=J1-2
+Removed Pin From Net: NetName=STEPPER_OUT1B Pin=J2-1
+Removed Pin From Net: NetName=STEPPER_OUT2B Pin=J2-2
+Added Pin To Net: NetName=STEPPER_OUT1A Pin=J1-1
+Added Pin To Net: NetName=STEPPER_OUT2A Pin=J1-2
+Added Pin To Net: NetName=STEPPER_OUT2B Pin=J2-1
+Added Pin To Net: NetName=STEPPER_OUT1B Pin=J2-2
+Added Room: Name=03 MCU
+Added Room: Name=04 DRIVER
+Added Room: Name=05 COMMUNICATION
+Added Room: Name=06 POWER

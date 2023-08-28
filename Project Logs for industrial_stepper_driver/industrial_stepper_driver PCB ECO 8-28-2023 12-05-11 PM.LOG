@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=GND Pin=C38-2
+Change Component Footprint: Designator=C11 Old Footprint=A768MS107M1HLAE024 New Footprint=A768KS107M1HLAE030
+Change Component Footprint: Designator=C12 Old Footprint=A768MS107M1HLAE024 New Footprint=A768KS107M1HLAE030
+Change Component Footprint: Designator=C13 Old Footprint=A768MS107M1HLAE024 New Footprint=A768KS107M1HLAE030
+Change Component Footprint: Designator=C38 Old Footprint=A768MS107M1HLAE024 New Footprint=A768KS107M1HLAE030
+Change component parameters: Designator = "C11" ("C11"); Footprint = "A768MS107M1HLAE024"; UniqueID = "\SUKOULLC" ("\SUKOULLC")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://connect.kemet.com:7667/gateway/IntelliData-ComponentDocumentation/1.0/download/datasheet/A768KS107M1HLAE030"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MPN"; Value = "A768KS107M1HLAE030"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C12" ("C12"); Footprint = "A768MS107M1HLAE024"; UniqueID = "\UMBAKKTS" ("\UMBAKKTS")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://connect.kemet.com:7667/gateway/IntelliData-ComponentDocumentation/1.0/download/datasheet/A768KS107M1HLAE030"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MPN"; Value = "A768KS107M1HLAE030"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C13" ("C13"); Footprint = "A768MS107M1HLAE024"; UniqueID = "\CBLUIDEB" ("\CBLUIDEB")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://connect.kemet.com:7667/gateway/IntelliData-ComponentDocumentation/1.0/download/datasheet/A768KS107M1HLAE030"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MPN"; Value = "A768KS107M1HLAE030"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C38" ("C38"); Footprint = "A768MS107M1HLAE024"; UniqueID = "\AAMTKGHL" ("\AAMTKGHL")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://connect.kemet.com:7667/gateway/IntelliData-ComponentDocumentation/1.0/download/datasheet/A768KS107M1HLAE030"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MPN"; Value = "A768KS107M1HLAE030"; VariantName = "[No Variations]"
+Added Room: Name=03 MCU
+Added Room: Name=04 DRIVER
+Added Room: Name=05 COMMUNICATION
+Added Room: Name=06 POWER

@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=VCC Pin=C13-1
+Removed Pin From Net: NetName=GND Pin=C13-2
+Removed Member From Class: ClassName=04 DRIVER Member=C13
+Added Room: Name=03 MCU
+Added Room: Name=04 DRIVER
+Added Room: Name=05 COMMUNICATION
+Added Room: Name=06 POWER

@@ -1,0 +1,12 @@
+Added Pin To Net: NetName=VCC Pin=C38-1
+Added Pin To Net: NetName=VCC Pin=C40-2
+Added Pin To Net: NetName=VCC Pin=C41-2
+Added Pin To Net: NetName=VCC Pin=C42-2
+Added Pin To Net: NetName=VCC Pin=R18-1
+Added Pin To Net: NetName=VCC Pin=U5-17
+Added Pin To Net: NetName=VCC Pin=U5-18
+Added Pin To Net: NetName=VCC Pin=U6-2
+Added Room: Name=03 MCU
+Added Room: Name=04 DRIVER
+Added Room: Name=05 COMMUNICATION
+Added Room: Name=06 POWER
