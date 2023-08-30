@@ -1,0 +1,44 @@
+Added Component: Designator=C13(CAPC1005X06M-0402)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM155R60J475ME47-01.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "GRM155R71H104KE14D"; VariantName = "[No Variations]"
+Added Component: Designator=C51(CAPC1005X06M-0402)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM155R60J475ME47-01.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "GRM155C80J225KE95D"; VariantName = "[No Variations]"
+Added Component: Designator=C52(CAPC1005X06M-0402)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM155R60J475ME47-01.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "GRM155R71H104KE14D"; VariantName = "[No Variations]"
+Added Component: Designator=C53(CAPC1005X06M-0402)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM155R60J475ME47-01.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "GRM155C80J225KE95D"; VariantName = "[No Variations]"
+Added Component: Designator=J7(B5B-PH-K-S)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.jst-mfg.com/product/pdf/eng/ePH.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "B5B-PH-K-S"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C13-1
+Added Pin To Net: NetName=+5V Pin=C13-2
+Added Pin To Net: NetName=GND Pin=C51-1
+Added Pin To Net: NetName=+5V Pin=C51-2
+Added Pin To Net: NetName=GND Pin=C52-1
+Added Pin To Net: NetName=+3V3 Pin=C52-2
+Added Pin To Net: NetName=GND Pin=C53-1
+Added Pin To Net: NetName=+3V3 Pin=C53-2
+Added Pin To Net: NetName=+5V Pin=J7-1
+Added Pin To Net: NetName=+3V3 Pin=J7-2
+Added Pin To Net: NetName=NetR24_1 Pin=J7-3
+Added Pin To Net: NetName=NetR23_1 Pin=J7-4
+Added Pin To Net: NetName=GND Pin=J7-5
+Change Net Name : Old Net Name=NetR23_1 New Net Name=NetJ7_4
+Change Net Name : Old Net Name=NetR24_1 New Net Name=NetJ7_3
+Added Member To Class: ClassName=05 COMMUNICATION Member=Component C13 100nF/50V
+Added Member To Class: ClassName=05 COMMUNICATION Member=Component C51 2.2uF/6.3V
+Added Member To Class: ClassName=05 COMMUNICATION Member=Component C52 100nF/50V
+Added Member To Class: ClassName=05 COMMUNICATION Member=Component C53 2.2uF/6.3V
+Added Member To Class: ClassName=05 COMMUNICATION Member=Component J7 5POS 2MM
+Added Room: Name=03 MCU
+Added Room: Name=04 DRIVER
+Added Room: Name=05 COMMUNICATION
+Added Room: Name=06 POWER

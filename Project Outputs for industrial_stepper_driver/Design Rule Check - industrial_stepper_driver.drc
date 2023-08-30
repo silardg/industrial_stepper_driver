@@ -1,0 +1,15 @@
+Protel Design System Design Rule Check
+PCB File : C:\Development\industrial_stepper_driver\industrial_stepper_driver\PCB\industrial_stepper_driver.PcbDoc
+Date     : 8/30/2023
+Time     : 11:01:36 AM
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+
+Violations Detected : 0
+Waived Violations : 0
+Time Elapsed        : 00:00:01
