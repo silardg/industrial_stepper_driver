@@ -235,6 +235,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for industrial_stepper_driver\Design Rule Check - industrial_stepper_driver.html
+DItemRevisionGUID=
+
 [Parameter1]
 Name=Engineer_Email
 Value=contact@silardgal.com
